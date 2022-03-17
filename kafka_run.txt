@@ -1,0 +1,2 @@
+.\bin\windows\kafka-server-start.bat .\config\server.properties : kafka server start
+zkserver : zookeper server start
